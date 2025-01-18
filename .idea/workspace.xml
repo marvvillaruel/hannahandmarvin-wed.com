@@ -31,9 +31,14 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Marvin/Desktop/wedding-website-main"
+    "last_opened_file_path": "C:/Users/Marvin/Desktop/wedding-website-main/images"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marvin\Desktop\wedding-website-main\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="wedding-website-main" />
