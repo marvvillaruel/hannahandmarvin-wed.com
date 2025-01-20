@@ -711,7 +711,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			margin-left: 0;
 		}
 		a {
-			min-height: 550px;
+			min-height: 400px;
 			padding: 1em;
 			position: relative;
 			width: 100%;
@@ -730,17 +730,13 @@ h1, h2, h3, h4, h5, h6, figure {
 				background: rgba(0, 0, 0, .2);	
 
 			}
-			&:hover {
-				&:before {
-					background: rgba(0, 0, 0, .5);
-				}
-			}
-			
+
+
 			.case-studies-summary {
 			   width: auto;
-			   bottom: 2em;
-			   left: 2em;
-			   right: 2em;
+			   bottom: 1em;
+			   left: 1em;
+			   right: 1em;
 			   position: absolute;
 			   z-index: 100;
 			   @media screen and (max-width: $screen-sm) {
