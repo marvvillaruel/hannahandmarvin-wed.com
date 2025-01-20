@@ -674,13 +674,13 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #fh5co-gallery-list li a {
-  min-height: 400px;
+  min-height: 530px;
   padding: 2em;
   position: relative;
   width: 100%;
   display: block;
 }
-#fh5co-gallery-list li a:before {
+/* #fh5co-gallery-list li a:before {
   position: absolute;
   top: 0;
   left: 0;
@@ -699,7 +699,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-gallery-list li a:hover:before {
   background: rgba(0, 0, 0, 0.5);
-}
+}*/
 #fh5co-gallery-list li a .case-studies-summary {
   width: auto;
   bottom: 2em;
