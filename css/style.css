@@ -1412,7 +1412,7 @@ form label {
   transform: translateX(0px);
 }
 #fh5co-offcanvas a {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgb(177 88 0);
 }
 #fh5co-offcanvas a:hover {
   color: rgba(255, 255, 255, 0.8);
@@ -1543,7 +1543,7 @@ form label {
 }
 .fh5co-nav-toggle.fh5co-nav-white > i {
   color: #fff;
-  background: #fff;
+  background: rgb(177 88 0);
 }
 .fh5co-nav-toggle.fh5co-nav-white > i::before, .fh5co-nav-toggle.fh5co-nav-white > i::after {
   background: #fff;
